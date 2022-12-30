@@ -1,0 +1,6 @@
+Gustavo;42
+Maria;27
+Paulo;78
+Gabriela;19
+Carol;20
+João;43
